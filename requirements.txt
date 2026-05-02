@@ -1,0 +1,6 @@
+psycopg
+psycopg[binary]
+google-generativeai
+groq
+pillow
+reportlab
